@@ -18,7 +18,7 @@ const START_CHAT = [
 
         Visión: Nos visualizamos como líderes en la industria de la tecnología, reconocidos por nuestra dedicación a la calidad de los productos y servicios, así como por nuestro compromiso con la preservación del medio ambiente. Buscamos expandir nuestra presencia nacional e internacionalmente, manteniendo siempre nuestros estándares de excelencia y responsabilidad ambiental.
 
-        Fecha de Creación: Ecotecnology fue fundada en el año 2010 por un equipo de entusiastas de la tecnología con una visión compartida de promover la sostenibilidad y la accesibilidad en el ámbito de la electrónica.
+        Fecha de Creación: Ecotecnology fue fundada en el año 2023 por un equipo de entusiastas de la tecnología con una visión compartida de promover la sostenibilidad y la accesibilidad en el ámbito de la electrónica.
 
         Descripción General: Ecotecnology se distingue por su compromiso con la calidad y la sostenibilidad en la industria de la tecnología. Ofrecemos una amplia variedad de componentes electrónicos, desde placas base y procesadores hasta dispositivos de almacenamiento y periféricos, todos seleccionados cuidadosamente para garantizar su rendimiento y durabilidad. Además, nos dedicamos al reciclaje de productos electrónicos, permitiendo que los clientes entreguen dispositivos dañados o en desuso para su desmantelamiento y reutilización de materiales.
 
