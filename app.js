@@ -40,6 +40,12 @@ app.post('/chat', async (req, res) => {
   return res.status(200).json({ history: history });
 });
 
+// Middleware de manejo de errores
+app.use((err, req, res, next) => {
+  console.error(err.stack);
+  res.status(500).send('Something broke!');
+});
+
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 });
